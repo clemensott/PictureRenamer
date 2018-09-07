@@ -1,5 +1,0 @@
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Release\PictureRenamer.exe.config
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Release\PictureRenamer.exe
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Release\PictureRenamer.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\obj\Release\PictureRenamer.exe
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\obj\Release\PictureRenamer.pdb

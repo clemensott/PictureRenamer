@@ -1,6 +1,0 @@
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Debug\PictureRenamer.exe.config
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Debug\PictureRenamer.exe
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\bin\Debug\PictureRenamer.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\obj\Debug\PictureRenamer.exe
-g:\users\clemens\documents\visual studio 2015\Projects\PictureRenamer\obj\Debug\PictureRenamer.pdb
-G:\Users\Clemens\Documents\Visual Studio 2015\Projects\PictureRenamer\obj\Debug\PictureRenamer.csprojResolveAssemblyReference.cache
